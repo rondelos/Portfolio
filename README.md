@@ -1,7 +1,6 @@
 # Portfolio
 
 # About me
-<br>
 # Tools
 # Courses
 # Techniczne książki
